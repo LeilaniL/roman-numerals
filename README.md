@@ -23,7 +23,7 @@ Output: "IV"
 * Open in Atom to see all code used
 
 ### Known Bugs
-Return text will append to last return text
+* No known bugs
 
 ### Languages Used
 * HTML
